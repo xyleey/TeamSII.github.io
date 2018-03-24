@@ -1,8 +1,7 @@
 @charset "utf-8";
-.background {
-	background-image: url(image/Flag%20V.2018.png);
+body {
+	background-image: url(image/flag.png);
+	background-repeat: repeat-y;
+	background-position: center -180px;
 	background-attachment: fixed;
-	background-repeat: repeat;
-	background-position: center center;
-	background-color: #966;
 }
