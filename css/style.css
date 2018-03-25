@@ -2,8 +2,8 @@
 body{
 	background-image: url(../image/flag2.jpg);
 	background-repeat: repeat-y;
-	background-position: center top;
-	background-attachment: scroll;
+	background-position: center -100px;
+	background-attachment: fixed;
 	background-size: cover;
 	color: #783105;
 }
