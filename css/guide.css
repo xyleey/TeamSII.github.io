@@ -1,0 +1,11 @@
+@charset "utf-8";
+#guide {
+	background-attachment: fixed;
+	background-color: rgba(78,78,78,0.8);
+	background-repeat: repeat;
+	height: 200px;
+	width: 1376px;
+	position: absolute;
+	z-index: 2;
+	visibility: visible;
+}

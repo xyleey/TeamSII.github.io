@@ -1,0 +1,17 @@
+@charset "utf-8";
+.overay {
+	background-color: #FFF;
+	width: 1376px;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	z-index: 1;
+	vertical-align: baseline;
+	background-image: url(blank.jpg);
+	background-repeat: repeat;
+	margin-top: 917px;
+	padding: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
