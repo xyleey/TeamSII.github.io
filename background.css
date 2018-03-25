@@ -1,7 +1,0 @@
-@charset "utf-8";
-body {
-	background-image: url(https://github.com/TeamSII/TeamSII.github.io/blob/master/image/flag.png?raw=true);
-	background-repeat: repeat-y;
-	background-position: center -180px;
-	background-attachment: fixed;
-}
