@@ -1,8 +1,8 @@
 @charset "utf-8";
 body{
-	background-image: url(../image/flag.png);
+	background-image: url(../image/flag.jpg);
 	background-repeat: no-repeat;
-	background-position: center -100px;
+	background-position: center top;
 	background-attachment: scroll;
 	background-size: cover;
 	color: #783105;
