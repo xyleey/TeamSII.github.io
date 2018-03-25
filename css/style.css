@@ -2,7 +2,7 @@
 body{
 	background-image: url(../image/flag.png);
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center -100px;
 	background-attachment: scroll;
 	background-size: cover;
 	color: #783105;
