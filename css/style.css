@@ -1,7 +1,7 @@
 @charset "utf-8";
 body{
 	background-image: url(../image/flag2.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	background-position: center top;
 	background-attachment: scroll;
 	background-size: cover;
