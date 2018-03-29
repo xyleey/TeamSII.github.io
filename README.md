@@ -28,6 +28,8 @@ GitHub: [https://github.com/TeamSII](https://github.com/TeamSII)
 
 李宇琪: [https://qm.qq.com/cgi-bin/qm/qr?k=BOgxLdTi0wT9zai3f8sS_2G1FJZwYLDL](https://qm.qq.com/cgi-bin/qm/qr?k=BOgxLdTi0wT9zai3f8sS_2G1FJZwYLDL)
 
+刘增艳: [https://qm.qq.com/cgi-bin/qm/qr?k=fNqxrtZXJNPZ6vOTesCRkquJl4x5k7tm](https://qm.qq.com/cgi-bin/qm/qr?k=fNqxrtZXJNPZ6vOTesCRkquJl4x5k7tm)
+
 吕一: [https://qm.qq.com/cgi-bin/qm/qr?k=j8ufZ4l5ZYVynY5J2yU6lbbm0l1zv9q3](https://qm.qq.com/cgi-bin/qm/qr?k=j8ufZ4l5ZYVynY5J2yU6lbbm0l1zv9q3)
 
 莫寒: [https://qm.qq.com/cgi-bin/qm/qr?k=uAsIoC8qS2w7wbwTZjSo_y7VlggiF5Rt](https://qm.qq.com/cgi-bin/qm/qr?k=uAsIoC8qS2w7wbwTZjSo_y7VlggiF5Rt)
@@ -54,6 +56,10 @@ GitHub: [https://github.com/TeamSII](https://github.com/TeamSII)
 
 徐子轩: [https://qm.qq.com/cgi-bin/qm/qr?k=3_aHXLoEV1f6J1qYF7ftqtgChuUfT2ge](https://qm.qq.com/cgi-bin/qm/qr?k=3_aHXLoEV1f6J1qYF7ftqtgChuUfT2ge)
 
+袁丹妮: [https://qm.qq.com/cgi-bin/qm/qr?k=EjnH11Tjl5rVftkddBFjf3slx2AIeCRn](https://qm.qq.com/cgi-bin/qm/qr?k=EjnH11Tjl5rVftkddBFjf3slx2AIeCRn)
+
 袁雨桢: [https://qm.qq.com/cgi-bin/qm/qr?k=QxdMHcIJ_Bh8Npno1D2s8rP12PMRy7Ny](https://qm.qq.com/cgi-bin/qm/qr?k=QxdMHcIJ_Bh8Npno1D2s8rP12PMRy7Ny)
+
+张语格: [https://qm.qq.com/cgi-bin/qm/qr?k=omeuEwMDsy1iEdoRQffz-KcLyA2r2c34](https://qm.qq.com/cgi-bin/qm/qr?k=omeuEwMDsy1iEdoRQffz-KcLyA2r2c34)
 
 赵晔: [https://qm.qq.com/cgi-bin/qm/qr?k=JrV85G-M6YaTMzBcWpEzxOVYqfiDBape](https://qm.qq.com/cgi-bin/qm/qr?k=JrV85G-M6YaTMzBcWpEzxOVYqfiDBape)
