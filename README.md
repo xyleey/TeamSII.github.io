@@ -40,3 +40,10 @@ GitHub: [https://github.com/TeamSII](https://github.com/TeamSII)
 | 袁雨桢 | <https://qm.qq.com/cgi-bin/qm/qr?k=QxdMHcIJ_Bh8Npno1D2s8rP12PMRy7Ny> |
 | 张语格 | <https://qm.qq.com/cgi-bin/qm/qr?k=omeuEwMDsy1iEdoRQffz-KcLyA2r2c34> |
 | 赵晔 | <https://qm.qq.com/cgi-bin/qm/qr?k=JrV85G-M6YaTMzBcWpEzxOVYqfiDBape> |
+
+## Pay for votes
+| Name | URL |
+| :-: | :- |
+| 成珏 | <https://www.owhat.cn/shop/supportdetail.html?id=23149> |
+| 潘燕琦 | <https://zhongchou.modian.com/item/14277.html> |
+| 温晶婕 | <https://zhongchou.modian.com/item/11079.html> |
