@@ -46,4 +46,4 @@ GitHub: [https://github.com/TeamSII](https://github.com/TeamSII)
 | :-: | :- |
 | 成珏 | <https://www.owhat.cn/shop/supportdetail.html?id=23149> |
 | 潘燕琦 | <https://zhongchou.modian.com/item/14277.html> |
-| 温晶婕 | <https://zhongchou.modian.com/item/11079.html>(expired) |
+| 温晶婕 | <https://zhongchou.modian.com/item/11079.html> (expired) |
