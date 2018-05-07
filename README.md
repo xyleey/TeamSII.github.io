@@ -44,7 +44,11 @@ GitHub: [https://github.com/TeamSII](https://github.com/TeamSII)
 ## Pay for votes
 | Name | URL |
 | :-: | :- |
+| 陈思 | <https://zhongchou.modian.com/item/15422.html> |
 | 成珏 | <https://www.owhat.cn/shop/supportdetail.html?id=23149> |
+| 戴萌 | <https://zhongchou.modian.com/item/16336.html> (expired) |
+| 孔肖吟 | <https://zhongchou.modian.com/item/16333.html> (expired) |
 | 潘燕琦 | <https://zhongchou.modian.com/item/14277.html> |
 | 温晶婕 | <https://zhongchou.modian.com/item/11079.html> (expired) |
 | 徐晨辰 | <https://zhongchou.modian.com/item/14585.html> |
+| 张语格 | <https://zhongchou.modian.com/item/15902.html> |
