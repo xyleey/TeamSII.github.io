@@ -1,15 +1,19 @@
 SNH48-TeamSII应援会网站
 
 ## Follow us
-Weibo: [https://weibo.com/u/5266139275](https://weibo.com/u/5266139275)
+Weibo: <https://weibo.com/u/5266139275>
 
-QQ Group: [https://qm.qq.com/cgi-bin/qm/qr?k=D4ITYhR_9V93jE9fpPh1vsaPErF0Lmzh](https://qm.qq.com/cgi-bin/qm/qr?k=D4ITYhR_9V93jE9fpPh1vsaPErF0Lmzh)
+QQ Group: <https://qm.qq.com/cgi-bin/qm/qr?k=D4ITYhR_9V93jE9fpPh1vsaPErF0Lmzh>
 
-Bilibili: [https://space.bilibili.com/12444300/#/](https://space.bilibili.com/12444300/#/)
+Bilibili: <https://space.bilibili.com/12444300/#/>
 
-YouTube: [https://www.youtube.com/channel/UCBaVK4LkAsVA7jXxo1Tnykg](https://www.youtube.com/channel/UCBaVK4LkAsVA7jXxo1Tnykg)
+AcFun: <http://www.acfun.cn/u/2534467.aspx>
 
-GitHub: [https://github.com/TeamSII](https://github.com/TeamSII)
+YouTube: <https://www.youtube.com/channel/UCBaVK4LkAsVA7jXxo1Tnykg>
+
+GitHub: <https://github.com/TeamSII>
+
+Asciinema: <https://asciinema.org/~TeamSII>
 
 ## Members' fans clubs
 | Name | URL |
@@ -42,13 +46,4 @@ GitHub: [https://github.com/TeamSII](https://github.com/TeamSII)
 | 赵晔 | <https://qm.qq.com/cgi-bin/qm/qr?k=JrV85G-M6YaTMzBcWpEzxOVYqfiDBape> |
 
 ## Pay for votes
-| Name | URL |
-| :-: | :- |
-| 陈思 | <https://zhongchou.modian.com/item/15422.html> |
-| 成珏 | <https://www.owhat.cn/shop/supportdetail.html?id=23149> |
-| 戴萌 | <https://zhongchou.modian.com/item/16336.html> (expired) |
-| 孔肖吟 | <https://zhongchou.modian.com/item/16333.html> (expired) |
-| 潘燕琦 | <https://zhongchou.modian.com/item/14277.html> |
-| 温晶婕 | <https://zhongchou.modian.com/item/11079.html> (expired) |
-| 徐晨辰 | <https://zhongchou.modian.com/item/14585.html> |
-| 张语格 | <https://zhongchou.modian.com/item/15902.html> |
+See details on <https://teamsii.top>
